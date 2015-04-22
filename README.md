@@ -2,7 +2,6 @@
 A jQuery depencency liberator for [t3js](https://github.com/box/t3js).
 Overrides `window.$` with hooks for `.on` and `.off`.
 
----
 
 ## License
 
