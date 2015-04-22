@@ -1,8 +1,10 @@
 # t3js-liberator
 A jQuery depencency liberator for [t3js](https://github.com/box/t3js).
-Overrides window.$ with hooks for `.on` and `.off`.
+Overrides `window.$` with hooks for `.on` and `.off`.
 
 ---
+
+## License
 
 The MIT License (MIT)
 
